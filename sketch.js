@@ -95,5 +95,5 @@ function mudaVelocidade(){
       onoff = true
     }
   }
-  print(speedV, onoff)
+  //print(speedV, onoff)
 }
